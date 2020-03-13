@@ -11,7 +11,7 @@ The easiest way to install is to accept the terms of service, then install the p
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ## Deployed Link
-* [See Live Site](#)
+* [See Live Site](https://simsam95.github.io/website-refractor/)
 ## Authors
 * **Sim Dhaliwal**
 - [Link to Portfolio Site](#)
@@ -19,7 +19,9 @@ The easiest way to install is to accept the terms of service, then install the p
 - [Link to LinkedIn](https://www.linkedin.com/in/simran-dhaliwal-5a2a9a1a3/)
 [Contributors]
 * **DAN**
+- [Link to Github](https://github.com/dfel08)
 * **JULIET**
+- [Link to Github](https://github.com/jules-boogie)
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 ## License
 This project is licensed under the MIT License
